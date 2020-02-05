@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html>
     <head>
-
-    <meta charset="utf-8">
-
-    <title>Cats</title>
+     <meta charset="utf-8">
+ <title>Cats</title>
     <style>
         td,th{border: 1px solid#CCC;}
         table{border: 1px solid black;}
         </style>
     </head>
-    <body>
+    
+  <body>
         <h1>Cats</h1>
         <p>Cats are the spirit animals of the <a href= "https://en.wikipedia.org/wiki/Cats_and_the_Internet">internet</a> </p>
       <h2><strong>Famous Cats</strong></h2>
