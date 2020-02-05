@@ -13,9 +13,9 @@
 <ul>
 <h5>Navigation</h5>
 <li><em>Home</em></li>
-<li><a href="mac.html"> Apple II</a><li></li>
-<li><a href="Commodore.html">Commodore 64</a></li>
-<li><a href="TRS80.html">TRS 80</a></li>
+<li><a href="mac.md"> Apple II</a><li></li>
+<li><a href="Commodore.md">Commodore 64</a></li>
+<li><a href="TRS80.md">TRS 80</a></li>
 </ul>
 
 <h3>Accessories</h3>
