@@ -20,7 +20,7 @@
 <li><a href="TRS80.md">TRS 80</a></li>
 </ul>
 
-<img src="Commodore-64.jpg" alt= "commodore 64">
+<img src="commodore-64.jpg" alt= "commodore 64">
 <h6><em>Commodore 64. Photo By: Evan Amos (Public Domain)</em></h6>
 
 <p>The <strong>Commodore 64</strong>, also known as the C64 or the CBM 64, is an 8-bit home computer introduced in January 1982 by Commodore International. 
