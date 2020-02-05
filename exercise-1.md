@@ -2,8 +2,7 @@
 <html>
     <head>
             <meta charset="utf.8">
-
- <title> Flynn's Retro Computers</title>
+         <title> Flynn's Retro Computers </title>
 </head>
        <p> Welcome to Flynn's Retro Computers, a web shop dedicated to old-school minicomputers from the 1970s and 1980s. We've got the most complete catalog anywhere on the Internet!
         nywhere on the Internet!</p>
