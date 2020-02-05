@@ -13,10 +13,10 @@
 <h1>Apple II</h1>
 <ul>
 <h5>Navigation</h5>
-<li><a href="index3.html">Home</a></li>
+<li><a href="index3.md">Home</a></li>
 <li><em>Apple II</em></li>
-<li><a href="Commodore.html">Commodore 64</a></li>
-<li><a href="TRS80.html">TRS 80</a></li>
+<li><a href="Commodore.md">Commodore 64</a></li>
+<li><a href="TRS80.md">TRS 80</a></li>
 </ul>
 <img src="apple-ii.jpg" alt="Apple II">
 
