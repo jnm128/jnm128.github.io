@@ -14,7 +14,8 @@
 <h5>Navigation</h5>
 
 <ul>
-<li><a href="index3.md">Home</a></li>
+<li><a href="exercise-1.md">Home</a></li>
+
 <li><a href="mac.md">Apple II</a></li>
 <li><em>>Commodore 64</em></li>
 <li><a href="TRS80.md">TRS 80</a></li>
