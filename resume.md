@@ -1,10 +1,15 @@
 <!DOCTYPR html>
-<html>
-<head>
-<meta charset="utf.8">
-<title> JOANNA MINOTT</title>
+
+   <meta charset="utf.8">
+
+<title>Quorra's Software Shack</title>
+<style>
+td,th{border: 1px solid#CCC;}
+table{border: 1px solid black;}
+</style>
 </head>
 <body>
+	<h1>JOANNA NAOMI MINOTT</h1>
 	
 
 < img src= "me.jpg" alt=joannaMinott/>	
