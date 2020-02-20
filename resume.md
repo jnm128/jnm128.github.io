@@ -12,7 +12,8 @@ table{border: 1px solid black;}
 	<h1>JOANNA NAOMI MINOTT</h1>
 	
 
-< img src= "me.jpeg" alt=joannaMinott/>	
+< img src="me.png" alt="joannaMinott">
+<h5> About me</h5>
 <header>
 <h3>Summary</h3> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
