@@ -17,10 +17,11 @@ table{border: 1px solid black;}
 <h3>Summary</h3> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
 </header>
+
 <h4>B.A Computer Science </h4>  									   
 <h4>Minor in electronic media and interactive media</h4>	
 
-<h6>contact info</h6>
+<h3>contact info</h3>
 <table>
 <tr>
 <th> TYPE</th>
