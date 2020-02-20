@@ -17,8 +17,10 @@ table{border: 1px solid black;}
 <h3>Summary</h3> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
 </header>
+<h4>B.A Computer Science </h4>  									   
+<h4>Minor in electronic media and interactive media</h4>	
 
-<h3>r>contact info</h3>
+<h6>contact info</h6>
 <table>
 <tr>
 <th> TYPE</th>
@@ -40,18 +42,16 @@ table{border: 1px solid black;}
 <th>NAME</th>
 <th>YEAR GRADUATED</th>
 </tr>
-	<tr>
-		<td><a href= "">Brentwood High School</a></td>
-		<td>june 2018</td>
-	</tr>
-	
-		
-
-Brentwood High School                 						Graduated June 2018
-										                                        
-University of Miami
-B.A Computer Science     									       currently enrolled 
-Minor in electronic media and interactive media								                                                                                                                                                   
+<tr>
+<td><a href= "https://bhs.bufsd.org/home">Brentwood High School</a></td>
+<td>june 2018</td>
+</tr>
+<tr>
+<td> <a href="https://welcome.miami.edu/" University of Miami</a></td>
+<td>Prospected: May 2022</td>
+</tr>
+</table>
+							                                                                                                                                                   
 Skills: 
 Adobe Photoshop, Illustrator, Onbase Unity Client, Paint Tool Sai, Microsoft Word, Excel and PowerPoint
 (Windows and Mac), Java 
