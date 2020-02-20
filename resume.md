@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf.8">
 <title> Joanna Minott Resume</title>
-<header>
+	<h7>JOANNA MINOTT</h7>
 <h6>Summary</h6> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
 </header>
