@@ -11,8 +11,9 @@ table{border: 1px solid black;}
 <body>
 	<h1>JOANNA NAOMI MINOTT</h1>
 	
-
+<img src="flynn.jpg"alt="flyn">
 < img src="me.png" alt="joannaMinott">
+
 <h5> About me</h5>
 <header>
 <h3>Summary</h3> 
@@ -49,7 +50,7 @@ table{border: 1px solid black;}
 <td>june 2018</td>
 </tr>
 <tr>
-<td> <a href="https://welcome.miami.edu/" University of Miami</a></td>
+<td> <a href="https://welcome.miami.edu/"> University of Miami</a></td>
 <td>Prospected: May 2022</td>
 </tr>
 </table>
