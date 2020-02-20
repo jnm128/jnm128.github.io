@@ -2,12 +2,15 @@
 <html>
 <head>
 <meta charset="utf.8">
-<title> Joanna Minott Resume</title>
-	<h7>JOANNA MINOTT</h7>
+<title> JOANNA MINOTT</title>
+</head>
+<body>
+	
+
+< img src= "me.jpg" alt=joannaMinott/>	
 <h6>Summary</h6> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
-</header>
-< img src= "me.jpg" alt=joannaMinott/>
+
 
 <h6>r>contact info</h6>
 <table>
@@ -66,9 +69,6 @@ Participant
 
 
 
-
-</head>
-<body>
 
 
 
