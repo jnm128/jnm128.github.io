@@ -2,7 +2,7 @@
 <html>
     <head>
 
-    <meta charset="utf.8">
+   <meta charset="utf.8">
 
 <title>Quorra's Software Shack</title>
 <style>
@@ -20,7 +20,7 @@ table{border: 1px solid black;}
 <h3>Programming Languages</h3>
 <table>
 
-    <tr>
+ <tr>
 <th>LANGUAGE </th> 
  <th>VERSION </th>  
  <th>WEB SITE</th> 
