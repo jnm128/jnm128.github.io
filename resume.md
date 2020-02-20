@@ -2,7 +2,7 @@
 
    <meta charset="utf.8">
 
-<title>Quorra's Software Shack</title>
+<title>Resumek</title>
 <style>
 td,th{border: 1px solid#CCC;}
 table{border: 1px solid black;}
@@ -14,21 +14,21 @@ table{border: 1px solid black;}
 
 <img src="me.png" alt="joannaMinott">
 <header>
-<h5> About me</h5>
+<h2> About me</h2>
 </header>
 <nav>
 <ol>
 <li>Contact Info</li>
 <li> Education</li>
 <li> Skills</li>
-<li>  Work Experience</li>
+<li>  Work Experience & Campus Involvment</li>
 </ol>
 </nav>
 
-<h1>Summary</h1> 
+<h2>Summary</h2> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
-<h4>B.A Computer Science </h4>  									   
-<h4>Minor in electronic media and interactive media</h4>	
+<h5>B.A Computer Science </h5>  									   
+<h5>Minor in electronic media and interactive media</h5>	
 
 <section>
 <h2>contact info</h2>
@@ -42,7 +42,7 @@ table{border: 1px solid black;}
 <td><a href="https://outlook.office.com/mail/inbox"> jnm128@miami.edu</a></td> 
 </tr>
 <tr>
-<td>phone number<</td>
+<td>phone number</td>
 <td>631-796-3682</td>
 </tr>
 </table>
@@ -51,7 +51,7 @@ table{border: 1px solid black;}
 	
 	
 	
-<h2>Education:</h2>
+<h2>Education</h2>
 <table>
 <tr>
 <th>NAME</th>
