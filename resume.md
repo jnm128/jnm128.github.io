@@ -2,7 +2,7 @@
 
    <meta charset="utf.8">
 
-<title>Resumek</title>
+<title>Resume</title>
 <style>
 td,th{border: 1px solid#CCC;}
 table{border: 1px solid black;}
@@ -13,9 +13,11 @@ table{border: 1px solid black;}
 	<h1>JOANNA NAOMI MINOTT</h1>
 
 <img src="me.png" alt="joannaMinott">
+
 <header>
 <h2> About me</h2>
 </header>
+
 <nav>
 <ol>
 <li>Contact Info</li>
@@ -24,12 +26,12 @@ table{border: 1px solid black;}
 <li>  Work Experience & Campus Involvment</li>
 </ol>
 </nav>
-
+<main>
 <h2>Summary</h2> 
-<p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
+<p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and increase exposure as a Software Developer.</p>
 <h5>B.A Computer Science </h5>  									   
 <h5>Minor in electronic media and interactive media</h5>	
-
+</main>
 <section>
 <h2>contact info</h2>
 <table>
@@ -47,10 +49,8 @@ table{border: 1px solid black;}
 </tr>
 </table>
 </section>
-<section>
-	
-	
-	
+
+<section>	
 <h2>Education</h2>
 <table>
 <tr>
