@@ -8,21 +8,28 @@ td,th{border: 1px solid#CCC;}
 table{border: 1px solid black;}
 </style>
 </head>
+
 <body>
 	<h1>JOANNA NAOMI MINOTT</h1>
-	
-<img src="flynn.jpg"alt="flyn">
-< img src="me.png" alt="joannaMinott">
+
+<img src="me.png" alt="joannaMinott">
 
 <h5> About me</h5>
+<nav>
+	<ol>
+		<li>Contact Info</li>
+		<li> Education</li>
+		<li> Skills</li>
+		<li>  Work Experience</li>
+	</ol>
+</nav>
 <header>
 <h3>Summary</h3> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
-</header>
-
 <h4>B.A Computer Science </h4>  									   
 <h4>Minor in electronic media and interactive media</h4>	
-
+</header>
+<section>
 <h3>contact info</h3>
 <table>
 <tr>
@@ -38,7 +45,8 @@ table{border: 1px solid black;}
 <td>631-796-3682</td>
 </tr>
 </table>
-
+</section>
+<section>
 <h3>Education:</h3>
 <table>
 <tr>
@@ -54,7 +62,10 @@ table{border: 1px solid black;}
 <td>Prospected: May 2022</td>
 </tr>
 </table>
-							                                                                                                                                                   
+</section>
+							                                                                              
+																      
+																      
 Skills: 
 Adobe Photoshop, Illustrator, Onbase Unity Client, Paint Tool Sai, Microsoft Word, Excel and PowerPoint
 (Windows and Mac), Java 
