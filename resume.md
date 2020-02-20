@@ -13,24 +13,25 @@ table{border: 1px solid black;}
 	<h1>JOANNA NAOMI MINOTT</h1>
 
 <img src="me.png" alt="joannaMinott">
-
-<h5> About me</h5>
-<nav>
-	<ol>
-		<li>Contact Info</li>
-		<li> Education</li>
-		<li> Skills</li>
-		<li>  Work Experience</li>
-	</ol>
-</nav>
 <header>
-<h3>Summary</h3> 
+<h5> About me</h5>
+</header>
+<nav>
+<ol>
+<li>Contact Info</li>
+<li> Education</li>
+<li> Skills</li>
+<li>  Work Experience</li>
+</ol>
+</nav>
+
+<h1>Summary</h1> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
 <h4>B.A Computer Science </h4>  									   
 <h4>Minor in electronic media and interactive media</h4>	
-</header>
+
 <section>
-<h3>contact info</h3>
+<h2>contact info</h2>
 <table>
 <tr>
 <th> TYPE</th>
@@ -47,7 +48,10 @@ table{border: 1px solid black;}
 </table>
 </section>
 <section>
-<h3>Education:</h3>
+	
+	
+	
+<h2>Education:</h2>
 <table>
 <tr>
 <th>NAME</th>
