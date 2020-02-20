@@ -20,7 +20,7 @@
   <img src="coral-reef-high.jpg" alt="high quality jpg" />
   <p>High quality (75%). File size: 129.9k </p>
 
-  <img src="coral-reef-very-high.jpg" alt="very high quality jpg" />
+  <img src="coal-reef-very-high.jpg" alt="very high quality jpg" />
   <p>Very quality (80%). File size: 150.1k</p>
 
   <img src="coral-reef-maximum.jpg" alt="maximum quality jpg" />
