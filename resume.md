@@ -19,21 +19,21 @@ table{border: 1px solid black;}
 </header>
 
 <nav>
-<ol>
+<ul>
 <li>Contact Info</li>
 <li> Education</li>
 <li> Skills</li>
 <li>  Work Experience & Campus Involvment</li>
-</ol>
+</ul>
 </nav>
-<main>
+
 <h2>Summary</h2> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and increase exposure as a Software Developer.</p>
 <h5>B.A Computer Science </h5>  									   
 <h5>Minor in electronic media and interactive media</h5>	
-</main>
+
 <section>
-<h2>contact info</h2>
+<h2>Contact Information</h2>
 <table>
 <tr>
 <th> TYPE</th>
@@ -68,8 +68,7 @@ table{border: 1px solid black;}
 </table>
 </section>
 							                                                                              
-																      
-																      
+																     													      
 Skills: 
 Adobe Photoshop, Illustrator, Onbase Unity Client, Paint Tool Sai, Microsoft Word, Excel and PowerPoint
 (Windows and Mac), Java 
