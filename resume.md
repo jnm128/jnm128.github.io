@@ -12,12 +12,13 @@ table{border: 1px solid black;}
 	<h1>JOANNA NAOMI MINOTT</h1>
 	
 
-< img src= "me.jpg" alt=joannaMinott/>	
-<h6>Summary</h6> 
+< img src= "me.jpeg" alt=joannaMinott/>	
+<header>
+<h3>Summary</h3> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and leadership.</p>
+</header>
 
-
-<h6>r>contact info</h6>
+<h3>r>contact info</h3>
 <table>
 <tr>
 <th> TYPE</th>
@@ -33,7 +34,18 @@ table{border: 1px solid black;}
 </tr>
 </table>
 
-Education:
+<h3>Education:</h3>
+<table>
+<tr>
+<th>NAME</th>
+<th>YEAR GRADUATED</th>
+</tr>
+	<tr>
+		<td><a href= "">Brentwood High School</a></td>
+		<td>june 2018</td>
+	</tr>
+	
+		
 
 Brentwood High School                 						Graduated June 2018
 										                                        
