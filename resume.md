@@ -17,12 +17,12 @@ table{border: 1px solid black;}
 <h2> About me</h2>
 
 <header>
-<ul>
-<li>Contact Info</li>
-<li> Education</li>
-<li> Skills</li>
-<li>  Work Experience & Campus Involvment</li>
-</ul>
+
+<h5>Contact Info</h5>
+<h5> Education</h5>
+<h5> Skills</h5>
+<h5>  Work Experience & Campus Involvment</h5>
+
 </header>
 
 <article>
