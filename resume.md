@@ -102,15 +102,18 @@ table{border: 1px solid black;}
 </table>
 </section>
 
-<main>						                                                                            						
-<h2>Work/Involvement Experience</h2>
+<main>						                                                                           						
+<h2>Work/Involvement Experience</h2> 
+<section>
 <article>	
 <h3>University of Miami Informational Technologies Department</h3>                          <h4>January 2019- present</h4>
 <h4>Student Assistant</h4> 
 	
 <p>Efficiently completed assigned tasks using the software OnBase Unity Client using the document retrieval software to transfer and manage information documented on paper to a digital database. As well as use Microsoft excel to correct mistakes or make changes towards the company's employee database</p>
 </article>
+</section>
 </main>
+<section>
 <main>
 <article>
 <h3> Phi Sigma Pi National Gender Inclusive Fraternity</h3>   <h4>January 2019- Present</h4>
@@ -122,8 +125,9 @@ table{border: 1px solid black;}
 	<li>record and send minutes to fraternity via E-mail</li>
 </ul>
 </article>
+</section>
 
-<article>	
+<section>	
 <h3> Impact Leadership Retreat</h3>					                              <h4>November 2019</h4>
 <h4>Participant<h4>
 <p>Engaged in teambuilding exercises to asset strengths and weaknesses as a leader</p>
@@ -131,8 +135,7 @@ table{border: 1px solid black;}
 <li>Participated in leadership development activities.</li>
 <li>Develop collegial relationships through skills and concepts driven by empathy and transparency</li>
 </ul>
-	</article>
-
+</section>
 </main>
 
 </body>
