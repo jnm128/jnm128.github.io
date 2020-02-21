@@ -109,10 +109,10 @@ table{border: 1px solid black;}
 	
 <p>Efficiently completed assigned tasks using the software OnBase Unity Client using the document retrieval software to transfer and manage information documented on paper to a digital database. As well as use Microsoft excel to correct mistakes or make changes towards the company's employee database</p>
 </article>	
-
+</main>
 <article>
 	<h3> Phi Sigma Pi National Gender Inclusive Fraternity</h3>   <h3>January 2019- Present</h3>
-<h3> Executive Board Secretary</h3>
+<h4> Executive Board Secretary</h4>
 	
 <p>successfully work alongside the president to remind and provide them with information about the brothers under the confidentiality code of honor, Sub Rosa.</p>
 <ul>
@@ -120,6 +120,7 @@ table{border: 1px solid black;}
 	<li>record and send minutes to fraternity via E-mail</li>
 </ul>
 </article>
+
 <article>
 	
 <h3> Impact Leadership Retreat</h3>					                              <h4>November 2019</h4>
