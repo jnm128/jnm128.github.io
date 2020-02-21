@@ -109,8 +109,10 @@ table{border: 1px solid black;}
 <h4>Student Assistant</h4> 
 	
 <p>Efficiently completed assigned tasks using the software OnBase Unity Client using the document retrieval software to transfer and manage information documented on paper to a digital database. As well as use Microsoft excel to correct mistakes or make changes towards the company's employee database</p>
-
-
+</article>
+</main>
+<main>
+<article>
 <h3> Phi Sigma Pi National Gender Inclusive Fraternity</h3>   <h4>January 2019- Present</h4>
 <h4> Executive Board Secretary</h4>
 	
@@ -119,8 +121,9 @@ table{border: 1px solid black;}
 	<li>Created excel spread worksheet and kept track of attendance of brothers.</li>
 	<li>record and send minutes to fraternity via E-mail</li>
 </ul>
+</article>
 
-	
+<article>	
 <h3> Impact Leadership Retreat</h3>					                              <h4>November 2019</h4>
 <h4>Participant<h4>
 <p>Engaged in teambuilding exercises to asset strengths and weaknesses as a leader</p>
