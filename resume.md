@@ -25,13 +25,15 @@ table{border: 1px solid black;}
 
 </header>
 
+
+<h2>Summary</h2>
+<section>
 <article>
-<h2>Summary</h2> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and increase exposure as a Software Developer.</p>
 <h5>B.A Computer Science </h5>  									   
 <h5>Minor in electronic media and interactive media</h5>	
 </article>
-
+</section>
 <section>
 <h2>Contact Information</h2>
 <table>
