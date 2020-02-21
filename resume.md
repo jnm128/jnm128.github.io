@@ -127,15 +127,6 @@ table{border: 1px solid black;}
 </article>
 </section>
 
-<section>	
-<h3> Impact Leadership Retreat</h3>					                              <h4>November 2019</h4>
-<h4>Participant<h4>
-<p>Engaged in teambuilding exercises to asset strengths and weaknesses as a leader</p>
-<ul>
-<li>Participated in leadership development activities.</li>
-<li>Develop collegial relationships through skills and concepts driven by empathy and transparency</li>
-</ul>
-</section>
 </main>
 
 </body>
