@@ -111,7 +111,7 @@ table{border: 1px solid black;}
 <h3>University of Miami Informational Technologies Department</h3>                          <h4>January 2019- present</h4>
 <h4>Student Assistant</h4> 
 	
-<p>Efficiently completed assigned tasks using the software OnBase Unity Client using the document retrieval software to transfer and manage information documented on paper to a digital database. As well as use Microsoft excel to correct mistakes or make changes towards the company's employee database</p>
+<p>Efficiently completed assigned tasks using the software OnBase Unity Client using the document retrieval software to transfer and manage information documented on paper to a digital database. Also, I use Microsoft excel to correct mistakes or make changes towards the company's employee database.</p>
 </article>
 </section>
 </main>
@@ -124,7 +124,7 @@ table{border: 1px solid black;}
 <p>successfully work alongside the president to remind and provide them with information about the brothers under the confidentiality code of honor, Sub Rosa.</p>
 <ul>
 	<li>Created excel spread worksheet and kept track of attendance of brothers.</li>
-	<li>record and send minutes to fraternity via E-mail</li>
+	<li>record and send minutes to fraternity via E-mail.</li>
 </ul>
 </article>
 </section>
@@ -132,9 +132,9 @@ table{border: 1px solid black;}
 <h3>Impact Leadership Retreat</h3>						                           
 <h4>November 2019</h4>
 <h4>Participant</h4>
-<p> Participated in teambuilding exercises to asset strengths and weaknesses as a leader
+<p> Participated in teambuilding exercises to asset strengths and weaknesses as a leader.
 <ul>
-	<li>develop collegial relationships through skills and concepts driven by empathy and transparency</li>
+	<li>develop collegial relationships through skills and concepts driven by empathy and transparency.</li>
 	</ul>
 
 </section>
