@@ -12,7 +12,7 @@ table{border: 1px solid black;}
 <body>
 	<h1>JOANNA NAOMI MINOTT</h1>
 
-<img src="me2.jpg" alt="joannaMinott">
+<img src="LGO.png" alt="joannaMinott">
 <article>
 <h2> About me</h2>
 
