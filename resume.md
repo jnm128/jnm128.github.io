@@ -24,6 +24,7 @@ table{border: 1px solid black;}
 <li>  Work Experience & Campus Involvment</li>
 </ul>
 </header>
+
 <article>
 <h2>Summary</h2> 
 <p> Extremely motivated individual with a drive to learn and develop. Seeking an ideal internship that utilizes problem solving and collaboration to promote character and increase exposure as a Software Developer.</p>
@@ -108,10 +109,9 @@ table{border: 1px solid black;}
 <h4>Student Assistant</h4> 
 	
 <p>Efficiently completed assigned tasks using the software OnBase Unity Client using the document retrieval software to transfer and manage information documented on paper to a digital database. As well as use Microsoft excel to correct mistakes or make changes towards the company's employee database</p>
-</article>	
-</main>
-<article>
-	<h3> Phi Sigma Pi National Gender Inclusive Fraternity</h3>   <h3>January 2019- Present</h3>
+
+
+<h3> Phi Sigma Pi National Gender Inclusive Fraternity</h3>   <h4>January 2019- Present</h4>
 <h4> Executive Board Secretary</h4>
 	
 <p>successfully work alongside the president to remind and provide them with information about the brothers under the confidentiality code of honor, Sub Rosa.</p>
@@ -119,9 +119,7 @@ table{border: 1px solid black;}
 	<li>Created excel spread worksheet and kept track of attendance of brothers.</li>
 	<li>record and send minutes to fraternity via E-mail</li>
 </ul>
-</article>
 
-<article>
 	
 <h3> Impact Leadership Retreat</h3>					                              <h4>November 2019</h4>
 <h4>Participant<h4>
@@ -130,7 +128,8 @@ table{border: 1px solid black;}
 <li>Participated in leadership development activities.</li>
 <li>Develop collegial relationships through skills and concepts driven by empathy and transparency</li>
 </ul>
-</article>
+	</article>
+
 </main>
 
 </body>
