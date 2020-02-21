@@ -130,15 +130,13 @@ table{border: 1px solid black;}
 <h3>Impact Leadership Retreat</h3>						                           
 <h4>November 2019</h4>
 <h4>Participant</h4>
-•	Engaged in teambuilding exercises to asset strengths and weaknesses as a leader
-•	Participated in leadership development activities 
-•	Develop collegial relationships through skills and concepts driven by empathy and transparency
+<p> Engaged in teambuilding exercises to asset strengths and weaknesses as a leader, participated in leadership development activities and develop collegial relationships through skills and concepts driven by empathy and transparency</p>
 
 </section>
 <h3> Social Media</h3>
 <nav>
 <a href="https://jovisuals.blogspot.com/">myblogspot</a>
-	<a href= "https://www.facebook.com/"></a>
+	<a href= "https://www.facebook.com/">facebook</a>
 	<a href= "https://www.instagram.com/jo.naomii/?hl=en">Instagram</a>
 </nav>
 	
