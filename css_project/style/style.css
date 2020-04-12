@@ -1,1 +1,149 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+html{
+    background-color: rgb(168, 165, 165)
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+  .a {
+    grid-column: 1 / 4;
+    grid-row: 1;
+  }
+  .b { 
+    grid-column: 3;
+    grid-row: 2/2;
+  }
+  .c {
+    grid-column: 2;
+    grid-row: 3;
+  }
+  .d {
+    grid-column: 3;
+    grid-row: 3;
+  }
+  .e {
+    grid-column: 2;
+    grid-row: 4;
+  }
+  .f {
+    grid-column: 3;
+    grid-row: 4;
+  }
+  .g{
+    grid-column: 1;
+    grid-row:4;
+}
+.footer{
+    grid-column:  1;
+    
+    grid-row:4;
+}
+.h{
+    grid-column: 4;
+    grid-row: 3;
+}
+
+.wrapper div {
+	border: 1px solid rgb(13, 13, 14);
+	border-radius: 3px;
+	background-color: rgba(0, 0, 0, 0.76);
+	padding: 0.2rem;
+	color: #fff;
+}
+
+.wrapper div:nth-of-type(2n) {
+	background-color: rgba(3, 3, 3, 0.753)
+}
+
+body {
+    font-family: 'Dosis', sans-serif;
+    color: black;
+    line-height:  1.5;
+    font-size: 16px;
+}
+
+h1{
+font-family:'Lobster', cursive;
+color: rgb(255, 227, 227);
+font-size: 40px;}
+
+header{
+    background-color: rgb(233, 163, 160);
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    border-radius: 3px;
+    padding: 1px;
+    }
+
+img{
+    border: 3px solid #222;
+    float: middle;
+    
+
+}
+h2{
+    font-family: 'Dosis', sans-serif;
+    color: black;
+    font-size: 25px;
+    background-color: rgb(233, 163, 160);
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    padding:1px;
+
+}
+td{
+    color: white;
+    font-family: 'Dosis', sans-serif;
+    font-size: 18px;
+
+}
+th{
+    color: white;
+    font-family: 'Dosis', sans-serif;
+    font-size: 19px;
+}
+
+
+
+nav {
+font-family: 'Dosis', sans-serif;
+color: whitesmoke;
+   
+  }
+  a:link{
+      color: white;
+      background-color:transparent;
+      text-decoration: none;
+  }
+  a:visited{
+      color: pink;
+      background-color:transparent;
+      text-decoration: none;
+
+  }
+  a:hover{
+      color:hotpink;
+      background-color: transparent;
+      text-decoration: underline;
+
+  }
+    a:active{
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+ 
+
+
+
+
