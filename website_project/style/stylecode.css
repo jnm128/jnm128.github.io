@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+ 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    max-width: 1500px;
+}
+
+
+.nav_links li,a{
+    font-family: "Montserrat", sans-serif;
+    font-weight:500;
+    font-size:16px;
+    color: white;
+    background-color: #24252A;
+    text-decoration: none;
+
+}
+
+section{
+display:flex;
+background-color: lightblue;
+flex-wrap: nowrap;
+justify-content: center; 
+align-items: flex-start;
+padding: 40px 10px;
+}
+.name h1{
+    font-family: "Lobster";
+     font-weight:500;
+     font-size:70px;
+     color: rgb(0, 0, 0);
+     text-decoration: none;
+ background-color: lightblue;
+ }
+ .name h5{
+    font-family: "Lobster";
+     font-weight:500;
+     font-size:20px;
+     color: rgb(0, 0, 0);
+     text-decoration: none;
+ background-color: lightblue;
+ }
+
+nav{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items:center;
+    padding: 30px 9%;
+    background-color: #24252A;
+
+}
+.nav_links{
+
+list-style: none;
+
+}
+.nav_links  li{
+   display:inline-block;
+   padding: 0px 30px;
+ 
+}
+.nav_links li a{
+   transition: all 0.3s ease 0s;
+}
+.nav_links li a:hover{
+ color:lightblue;
+}
+
+.title{
+float:right;
+
+margin-right: 290px;
+ margin-left:10px;
+padding: 40px 10px;
+
+        }
+.title h1{
+font-family: "Lobster";
+margin-top:10px;
+font-weight:10;
+font-size:85px;
+color: black;
+text-decoration: none;
+background:transparent;  
+}
+
+.info{
+    float:center;
+    position: relative;
+    margin-top: 200px;
+    
+    margin-left: 275px;
+    width:60%;
+    padding: 25px 25px;
+    background-color: rgb(90, 163, 187);
+    border-radius:  15px;
+    align-items:center;  
+
+}
+.info p{
+    font-family: "Montserrat", sans-serif;
+    font-weight:500;
+    font-size:15px;
+    color: white;
+
+}
+.info h1{
+    font-family: "Montserrat", sans-serif;
+    margin-top:30px;
+    font-weight:500;
+    font-size:15px;
+    color: white;
+
+
+}
+
+.java h1{
+float:right;
+position: relative;
+margin-right: 700px;
+margin-top: 30px;
+ margin-left:10px;
+font-family: "Lobster";
+font-weight:10;
+font-size:50px;
+color: black;
+text-decoration: none;
+background:transparent;  
+
+}
+.java img{
+    float: left;
+    position: relative;
+    margin-left: 330px;
+    margin-top: 20px;
+ 
+    padding: 5px;
+    border-radius: 4%;
+    padding: 10px 10px;
+    background: lightblue;
+   max-width:50%;
+   
+}
+
+.des{
+    float:right;
+    border-radius: 18px;
+    margin-right: 480px;
+    width: 500px;
+    margin-top: 10px;
+    padding: 15px 15px;
+    background-color: rgb(90, 163, 187);
+
+}
+.Des p{
+    font-family: "Montserrat", sans-serif;
+    font-weight:500;
+    font-size:15px;
+    color: white;
+
+
+}
+.html h1{
+float:right;
+position: relative;
+margin-right: 700px;
+margin-top: 50px;
+font-family: "Lobster";
+font-weight:10;
+font-size:50px;
+color: black;
+text-decoration: none;
+background:transparent;  
+
+
+}
+.html img{
+    float: left;
+    position: relative;
+    margin-left: 330px;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 4%;
+    padding: 10px 10px;
+    background: lightblue;
+   max-width:50%;
+}
+.des2{
+    float:right;
+    border-radius: 18px;
+    margin-right: 480px;
+    width: 500px;
+    margin-top: 10px;
+    padding: 15px 15px;
+    background-color: rgb(90, 163, 187);
+
+
+}
+.des2 p{
+    font-family: "Montserrat", sans-serif;
+    font-weight:500;
+    font-size:15px;
+    color: white;
+
+}
+.css h1{
+float:right;
+position: relative;
+margin-right: 700px;
+margin-top: 50px;
+font-family: "Lobster";
+font-weight:10;
+font-size:50px;
+color: black;
+text-decoration: none;
+background:transparent;  
+
+}
+.css img{
+    float: left;
+    position: relative;
+    margin-left: 330px;
+    margin-top: 20px;
+    padding: 5px;
+    border-radius: 4%;
+    padding: 10px 10px;
+    background: lightblue;
+   max-width:50%;
+}
+.des3{
+    float:right;
+    border-radius: 18px;
+    margin-right: 480px;
+    width: 500px;
+    margin-top: 10px;
+    padding: 15px 15px;
+    background-color: rgb(90, 163, 187);
+
+}
+.des3 p{
+   font-family: "Montserrat", sans-serif;
+   font-weight:500;
+   font-size:15px;
+   color: white;
+}
