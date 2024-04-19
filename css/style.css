@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+body {
+    font-family: 'verdana', sans-serif;
+    color: black;
+    line-height:  1.5;
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 960px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 20px;
+
+}
+header{
+    grid-column: 1/-1;
+    border-radius: 3px;
+}
+header h1{
+    font-size:45px;
+    margin-left:20px;
+}
+header h2{
+    margin-left:20px;
+
+}
+footer{
+    grid-column: 1/-1;
+    border-radius: 3px;
+    
+}
+footer p{
+    margin-left:20px;
+
+}
+nav ul{
+    margin-left:0px;
+
+}
+nav{
+    grid-column: 1; 
+    grid-row: 2;
+    border-radius: 3px;
+}
+main{
+    display: grid;
+    grid-template-columns: repeat(1,2fr);
+    grid-gap: 20px;
+    border-radius: 3px;
+
+
+}
+#introduction{
+    grid-column: 1;
+    grid-row: 1;
+    border-radius: 3px;
+}
+
+
+
+#peopleandsociety{
+grid-column: 1;
+border-radius: 3px;
+
+}
+#environment{
+grid-column: 1;
+border-radius: 3px;
+
+}
+#geography{
+    grid-column: 1;
+    border-radius: 3px;
+    }
+
+#flag img{
+    width: 920px;
+    grid-column: 1/-1;
+    padding-right: 100px;
+    border-radius: 3px;
+
+    
+  
+
+}
+figure{
+  
+    grid-column: 1/-1;
+   margin-left:10px;
+ 
+}
+
+
+
+h1{
+    font-family:'Lobster', cursive;
+    color: rgb(42, 1, 69);
+    font-size: 40px;
+}
+    
+h2{
+    font-family:'Lobster', cursive;
+    color: rgb(42, 1, 69);
+    font-size: 40px;
+}
+h3{
+    font-family:'Lobster', cursive;
+    color: rgb(42, 1, 69);
+    font-size: 40px;
+}
+h4{
+    font-family:'Lobster', cursive;
+    color: rgb(42, 1, 69);
+    font-size: 40px;
+}
+
+td{
+    color: rgb(58, 31, 31);
+   
+    font-family: 'Dosis', sans-serif;
+    font-size: 18px;
+
+}
+th{
+    color: rgb(66, 35, 35);
+   
+    font-family: 'Dosis', sans-serif;
+    font-size: 19px;
+}
+
+ul{
+    color: rgb(46, 30, 30);
+   
+    font-family: 'Dosis', sans-serif;
+    font-size: 19px;
+
+}
+li{
+    color:rgb(66, 37, 37);
+   
+    font-family: 'Dosis', sans-serif;
+    font-size: 19px;
+
+}
+figure{
+    color:rgb(72, 36, 36);
+    
+    font-family: 'Dosis', sans-serif;
+    font-size: 19px;
+
+}
+
+
+nav,header,footer{
+    background-color: rgb(181, 181, 181);
+}
+nav{
+    padding: 30px
+
+}
+section{
+    background-color: rgb(187, 187, 187);
+  padding: 20px
+}
+
+
+nav {
+font-family: 'Dosis', sans-serif;
+color: rgb(40, 17, 17);
+   
+  }
+  a:link{
+      color: rgb(119, 17, 17);
+      background-color:transparent;
+      text-decoration: none;
+  }
+  a:visited{
+      color: pink;
+      background-color:transparent;
+      text-decoration: none;
+
+  }
+  a:hover{
+      color:hotpink;
+      background-color: transparent;
+      text-decoration: underline;
+
+  }
+    a:active{
+        color: yellow;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+ 
+
+
+    
+    
+  
+
+        
+      
+  
