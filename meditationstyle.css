@@ -1,7 +1,7 @@
 /*font-family: 'Noto Serif', serif;
 font-family: 'Open Sans', sans-serif;
 font-family: 'PT Serif', serif;*/
-nav a { 
+.navlinks a:link { 
     font-family: 'Open Sans', sans-serif;
      font-size: 16px;
      color:black;
@@ -14,11 +14,20 @@ nav a {
      padding-bottom:10px;
      
    }
-   nav a:hover {
-     color:#FFBD89;
-     
-   }
+   .navlinks a {
+    color:#bc0482;
+    
+  }
+   .navlinks a:visited {
+    color:#d97c0b;
+    
+  }
    
+
+  .navlinks a:hover {
+    color:#5c9d37;
+    
+  }
    .navlinks { 
      display: grid; 
      grid-template-columns: 3fr 4fr 3fr 3fr;
@@ -69,6 +78,8 @@ nav a {
    
    .pic {
      background:red;
+     width: 100%;
+    height: auto;
    }
    .text {
      background:#F2F3F4;
@@ -142,6 +153,10 @@ nav a {
      display:grid;
      grid-template-columns: 1fr 3fr ;
      padding-bottom:30px;
+   }
+   .tipsimage {
+    width: 100%;
+    height: auto;
    }
      
    .bullet{
@@ -222,7 +237,7 @@ nav a {
    }
    
    
-   .fcol2 a{
+   .fcol2 a:link{
      font-family: 'Open Sans', sans-serif,bold;
      font-size:16px;
      text-decoration:none;
@@ -232,6 +247,21 @@ nav a {
      
    }
    
+
+   .fcol2 a:active{
+    color:rgb(110, 40, 40); 
+   }
+
+
+   .fcol2 a:visited{
+    color:rgb(6, 112, 144); 
+   }
+
    .fcol2 a:hover{
     color:white; 
+   }
+   .item {
+    width: 5%;
+    height: 5%;
+
    }
