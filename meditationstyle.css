@@ -1,0 +1,237 @@
+/*font-family: 'Noto Serif', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'PT Serif', serif;*/
+nav a { 
+    font-family: 'Open Sans', sans-serif;
+     font-size: 16px;
+     color:black;
+     text-decoration:none;
+     
+     display:block;
+     width:100%;
+     text-align:center;
+     padding-top:10px;
+     padding-bottom:10px;
+     
+   }
+   nav a:hover {
+     color:#FFBD89;
+     
+   }
+   
+   .navlinks { 
+     display: grid; 
+     grid-template-columns: 3fr 4fr 3fr 3fr;
+     list-style-type:none;
+     width: 600px;
+     padding-left:0;
+     margin-left:auto;
+     margin-right:auto; 
+     
+   }
+   .title{
+     
+     display:grid;
+     background: url('https://i.ibb.co/K9PJkkV/21cdcaa6bf5c2d42f61e2ad374f9cf84.jpg');
+     min-height:120px;
+     background-repeat:no-repeat;
+     background-size:cover;
+   }
+     .title-font{
+       font-family: 'PT Serif', serif,bold;
+     font-size:60px;
+     color:white;
+      padding-left:400px;
+      -webkit-text-stroke-width: 2px;
+       -webkit-text-stroke-color: #D4D4D4;
+       
+     }
+   
+   .h2-1{
+     font-family: 'Open Sans', sans-serif,bold;
+     font-size:25px;
+   
+      padding-left:480px;
+      padding-top:10px;
+     padding-bottom:10px;
+     
+   }
+   
+   .abouttext {
+     display:grid;
+     grid-template-columns: 1fr 2fr;   
+   }
+   
+   
+   .column1, .column2,.column3 {
+     min-height:100px;
+   }
+   
+   .pic {
+     background:red;
+   }
+   .text {
+     background:#F2F3F4;
+   }
+   .column1, .column2,.column3 {
+     min-height:100px;
+   }
+   .text{
+     display:flex;
+     font-family: 'Open Sans', sans-serif,bold;
+     font-size:20px;
+      padding-top:120px;
+     padding-left:10px;
+     padding-bottom:10px;
+   }
+   .h2-2{
+     font-family: 'Open Sans', sans-serif,bold;
+     font-size:25px;
+   
+      padding-left:500px;
+      padding-top:10px;
+     padding-bottom:10px;
+     
+   }
+   .threecolumns{
+     display:grid;
+     grid-template-columns:3fr 3fr 3fr;
+   }
+   .column1{
+     background:#FA8072;
+     
+   }
+   .column2{
+     background:#FFBD89;
+   }
+   .column3{
+     background:#F08080;
+   }
+   
+   .column1 li{
+     text-decoration:none;
+     text-transform: lowercase;
+     font-family: 'Open Sans', sans-serif,bold;
+     color:white;
+     font-size:16px;
+   }
+   .column2 li{
+     text-decoration:none;
+     text-transform: lowercase;
+     font-family: 'Open Sans', sans-serif,bold;
+     color:white;
+     font-size:16px;
+   }
+   .column3 li{
+     text-decoration:none;
+     text-transform: lowercase;
+     font-family: 'Open Sans', sans-serif,bold;
+     color:white;
+     font-size:16px;
+   }
+   .h2-3{
+     font-family: 'Open Sans', sans-serif,bold;
+     font-size:25px;
+   
+      padding-left:520px;
+      padding-top:10px;
+     padding-bottom:10px;
+     
+   }
+   .tips {
+     display:grid;
+     grid-template-columns: 1fr 3fr ;
+     padding-bottom:30px;
+   }
+     
+   .bullet{
+     display:flex;
+     font-family: 'Open Sans', sans-serif,bold;
+     font-size:20px;
+     padding-right:20px;
+   
+   }
+   .bullet p{
+     padding-top:90px;
+    font-family: 'PT Serif', serif,bold
+   }
+   hr.solid {
+     border-top: 3px solid #F2F3F4;
+   }  
+   
+   .h2-4{
+     font-family: 'Open Sans', sans-serif,bold;
+     font-size:25px;
+   
+      padding-left:440px;
+      padding-top:10px;
+     padding-bottom:10px;
+     
+   }
+   .h3-1{
+   font-family: 'Open Sans', sans-serif,bold;
+   font-size:16px;
+   padding-left:360px;
+   padding-bottom:15px;
+     
+     
+   }
+   .album {
+     display:flex;
+     flex-direction: row-reverse /*column-reverse row  column */;
+     flex-wrap: wrap;
+     padding-right:100px;
+     padding-bottom:30px;
+     
+     
+   }
+   .item {
+   margin:5px;
+   padding:5px;
+   }
+   
+   .footer{
+     display:grid;
+     background:  #FFBD89;
+     min-height:40px;
+     
+   
+     
+   }
+   .footer h3{
+     font-family: 'PT Serif', serif,bold;
+     font-size:25px;
+     
+   }
+   .footercol{
+     display:grid;
+     grid-template-columns:4fr 2fr;
+   }
+   .fcol1{
+     padding-left:10px;
+     color:white;
+   }
+   .fcol2{
+     padding-top:30px;
+     padding-left:0px;
+     
+   }
+   .fcol2 p{
+    font-family: 'Open Sans', sans-serif,bold;
+     font-size:16px;
+   }
+   
+   
+   .fcol2 a{
+     font-family: 'Open Sans', sans-serif,bold;
+     font-size:16px;
+     text-decoration:none;
+     text-transform: lowercase;
+     color:black;
+     padding-left:10px;
+     
+   }
+   
+   .fcol2 a:hover{
+    color:white; 
+   }
